@@ -1,6 +1,7 @@
-const CACHE_NAME = 'sabe-mocambique-v1';
+const CACHE_NAME = 'qual-a-sena-mz-v2';
 const urlsToCache = [
-  './sabe_mocambique.html',
+  './',
+  './index.html',
   './manifest.json'
 ];
 
